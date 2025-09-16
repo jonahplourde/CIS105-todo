@@ -6,7 +6,7 @@
 # 5. Remove a task from the list
 
 
-# Simpler To-Do List App (no functions, more repetitive)
+# Simple To-Do List App
 import time
 import sys
 
